@@ -1,4 +1,4 @@
-# 🎯 Emotion-Aware Loss for Multimodal Emotion Recognition
+# Emotion-Aware Loss for Multimodal Emotion Recognition
 
 A novel approach to enhance emotion recognition models by introducing a **semantic-aware custom loss function**, improving robustness when dealing with semantically similar emotional classes.
 
@@ -54,7 +54,7 @@ Thus:
 
 ---
 
-## 🏗️ Model Architecture
+## Model Architecture
 
 A **Multimodal Fusion Network** combining speech and text modalities:
 
@@ -108,7 +108,7 @@ A **Multimodal Fusion Network** combining speech and text modalities:
 
 | Metric                | Value (Example) |
 |------------------------|:---------------:|
-| Average Accuracy       | **81.53%**      |
+| Average Accuracy       | **82.53%**      |
 | Average UAR            | **70.35%**      |
 | Average Loss           | **0.4012**      |
 

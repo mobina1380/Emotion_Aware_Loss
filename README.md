@@ -160,7 +160,7 @@ Emotion-Aware Loss ensures that misclassifications between similar emotions are 
 
 ## 📊 Visual Comparison
 
-![Loss Comparison](assets/picture.png)
+![Loss Comparison](assets/picture2.png)
 
 > **Left:** Standard CrossEntropy Loss penalizes all mistakes equally.  
 > **Right:** Emotion-Aware Loss dynamically adjusts the penalty weight based on emotional similarity.

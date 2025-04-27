@@ -138,7 +138,7 @@ Introducing **Emotion-Aware Loss** in multimodal emotion recognition:
 ├── requirements.txt        # Dependencies list
 ├── LICENSE                 # License (e.g., MIT)
 └── .gitignore              # Ignored files/folders -->
-# 🌟 Emotion-Aware Loss for Multimodal Emotion Recognition
+# Emotion-Aware Loss for Multimodal Emotion Recognition
 
 Emotion recognition models often treat all misclassifications equally. However, confusing similar emotions (like sadness and anger) should not be penalized the same as confusing happiness and fear.
 
@@ -146,7 +146,7 @@ This project introduces **Emotion-Aware Loss**, a novel loss function that adjus
 
 ---
 
-## 🧠 Why Emotion-Aware Loss?
+## Why Emotion-Aware Loss?
 
 | Aspect | CrossEntropy Loss | Emotion-Aware Loss |
 |:------|:-----------------:|:------------------:|
@@ -167,7 +167,7 @@ Emotion-Aware Loss ensures that misclassifications between similar emotions are 
 
 ---
 
-## 🛠️ Model Architecture Overview
+## Model Architecture Overview
 
 - **Speech Branch:**
   - 1D Convolution Layers

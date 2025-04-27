@@ -218,7 +218,7 @@ python src/train.py
 
 | Metric   | Value (Example) |
 |:---------|:---------------:|
-| Accuracy | **81.53%**       |
+| Accuracy | **82.53%**       |
 | UAR      | **70.35%**       |
 | Loss     | **0.4012**       |
 
